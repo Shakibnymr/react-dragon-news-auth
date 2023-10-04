@@ -1,5 +1,5 @@
 import { NavLink,Link } from "react-router-dom"
-import defaultProfile from "../../../../public/user.png"
+import defaultProfile from "../../../../public/assets/user.png"
 const Navbar = () => {
 
 const navLinks = <>

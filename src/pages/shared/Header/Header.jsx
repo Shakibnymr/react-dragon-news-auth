@@ -1,4 +1,4 @@
-import logo from "../../../../public/logo.png";
+import logo from "../../../../public/assets/logo.png";
 import moment from "moment";
 const Header = () => {
   return (
