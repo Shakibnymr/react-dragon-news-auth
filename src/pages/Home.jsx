@@ -1,3 +1,4 @@
+import BreakingNews from "./BreakingNews/BreakingNews";
 import Header from "./shared/Header/Header";
 import LeftSideNav from "./shared/LeftSideNav/LeftSideNav";
 import Navbar from "./shared/Navbar/Navbar";
@@ -9,6 +10,7 @@ const Home = () => {
     return (
         <div>
             <Header></Header>
+            <BreakingNews/>
             <Navbar/>
         
 
